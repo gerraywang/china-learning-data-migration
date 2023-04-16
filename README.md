@@ -23,9 +23,6 @@ mysql -u docker -pdocker blog
 ### show tables
 ``` shell
 show tables;
-select * from schema_migrations;
-quit;
-exit
 ```
 ### show select * from schema_migrations;
 ``` shell

@@ -4,9 +4,12 @@
 - 探索
   - CICDで実行する方法
   - デグレードする方法
+
+
 ## 　参照  
 https://omkz.net/golang-migrate/
 https://simple-minds-think-alike.moritamorie.com/entry/golang-migrate
+
 
 ## check DB　
 ### 　Mysql Docker remote 

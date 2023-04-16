@@ -7,8 +7,8 @@
 
 
 ## 　参照  
-https://omkz.net/golang-migrate/
-https://simple-minds-think-alike.moritamorie.com/entry/golang-migrate
+[golang-migrateを使ってmysqlマイグレーションをする](https://omkz.net/golang-migrate/)
+[golang-migrateでDBマイグレーションをする](https://simple-minds-think-alike.moritamorie.com/entry/golang-migrate)
 
 
 ## check DB　

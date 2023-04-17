@@ -3,7 +3,7 @@
 - golang-migrationでデータマイグレーションを勉強する
 - 探索
   - CICDで実行する方法
-  - デグレードする方法
+  - downgradeする方法
 
 
 ## 　参照  
